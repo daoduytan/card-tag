@@ -1,0 +1,1 @@
+{"version":3,"sources":["feature/home/page/home.tsx"],"names":["Home"],"mappings":"0JAIaA,G,KAAkB,WAC7B,OAAO,6CAGMA","file":"static/js/10.5a5cbc2b.chunk.js","sourcesContent":["import React, { FC } from 'react';\n\ninterface Props {}\n\nexport const Home: FC<Props> = () => {\n  return <div>Homepage</div>;\n};\n\nexport default Home;\n"],"sourceRoot":""}
